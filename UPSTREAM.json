@@ -1,0 +1,14 @@
+{
+  "upstream_repository": "https://github.com/morluto/rea",
+  "upstream_ref": "main",
+  "upstream_commit": "2343e5692595ae9c08ce7de5bb91460118e67ed2",
+  "upstream_tree": "cf5693f263ee61e3bdca5141264826bf95f5b887",
+  "upstream_version": "6.9.0",
+  "snapshot_date": "2026-11-14",
+  "source_snapshot_only": true,
+  "preservation": "All upstream tracked Git tree entries, object hashes and modes are preserved. Original submodule gitlinks and .gitmodules are retained; submodules are not recursively cloned. No local dependencies or compiled runtime are added.",
+  "local_additions": ["UPSTREAM.json", "SNAPSHOT.zh-CN.md"],
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 morluto",
+  "third_party_notices": "THIRD_PARTY_NOTICES.md"
+}
